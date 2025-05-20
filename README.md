@@ -2,7 +2,10 @@
 
 A modern, interactive Tic-Tac-Toe game built with Next.js, React, and Tailwind CSS. This project features a responsive design, animations, score tracking, and game history.
 
-![Tic-Tac-Toe Game Screenshot](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/placeholder-ob7miW3mUreePYfXdVwkpFWHthzoR5.svg?height=400&width=800)
+![Tic-Tac-Toe Game Screenshot]
+
+![image](https://github.com/user-attachments/assets/679136ca-4b1a-46c6-8fa2-efea9719388e)
+
 
 ## Table of Contents
 
