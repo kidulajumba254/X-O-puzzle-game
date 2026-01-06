@@ -143,25 +143,6 @@ The game keeps track of:
 - Number of draws
 - Total games played
 
-### Game History
-
-The history tab shows:
-- The outcome of each game (who won or if it was a draw)
-- The time each game ended
-
-## Future Enhancements
-
-Potential features for future versions:
-
-- AI opponent with multiple difficulty levels
-- Online multiplayer mode
-- Customizable player names
-- Confetti animation for wins
-- Persistent storage to save game state between sessions
-- Undo/redo functionality
-- Game timer
-- Custom board sizes (4x4, 5x5)
-- Theme customization
 
 ## License
 
