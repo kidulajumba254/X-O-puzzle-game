@@ -6,7 +6,6 @@ A modern, interactive Tic-Tac-Toe game built with Next.js, React, and Tailwind C
 
 ![image](https://github.com/user-attachments/assets/679136ca-4b1a-46c6-8fa2-efea9719388e)
 
-
 ## Table of Contents
 
 - [Features](#features)
